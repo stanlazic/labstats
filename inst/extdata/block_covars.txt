@@ -1,0 +1,9 @@
+weight	block	RBD	CRD	y.RBD	y.CRD
+227.47	1	Control	Control	249.54	251.10
+227.69	1	New Diet	New Diet	263.56	263.48
+230.60	2	Control	New Diet	247.19	257.24
+242.75	2	New Diet	New Diet	272.67	268.44
+244.94	3	New Diet	Control	276.21	260.97
+247.31	3	Control	Control	263.26	258.20
+251.07	4	New Diet	Control	289.98	268.72
+263.93	4	Control	New Diet	280.50	295.58

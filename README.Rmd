@@ -1,0 +1,16 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+# labstats
+This R package contains data sets to accompany the book _Experimental Design for Laboratory Biologists: Maximising Information and Improving Reproducibility_ (available mid 2016 from Cambridge University Press).
+
+# Obtaining the data
+
+install package from CRAN
+
+install package from github
+
+download the text files
