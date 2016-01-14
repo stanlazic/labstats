@@ -1,0 +1,12 @@
+CV                                  Data to estimate the coefficient of variation
+KH2004                              Repeated measures data on rat muscles
+VPA                                 Valproic acid (VPA) data set
+assay.window                        Data to calculate an assay window
+block.covars                        Data to compare the use of blocking and covariate adjustment
+cellcount                           Cell count data
+festing                             Mouse liver enzyme randomised block design data set
+fluoxetine                          Fluoxetine data set
+glycogen                            Glycogen content in rat livers
+goldstandard                        Data to compare a new method against a gold standard
+hypertension                        Hypertension repeated measures data
+locomotor                           Locomotor activity rat data
