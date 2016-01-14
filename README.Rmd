@@ -9,8 +9,19 @@ This R package contains data sets to accompany the book _Experimental Design for
 
 # Obtaining the data
 
-install package from CRAN
+## Option 1: Install the package from CRAN
+```{R, eval=FALSE}
+install.packages("labstats")
+``` 
 
-install package from github
 
-download the text files
+## Option 2: Install the package from github
+
+```{R, eval=FALSE}
+library(devtools) # need devtools package installed
+install_github("stanlazic/labstats")
+```
+
+## Option 3: Download the text files
+
+The data sets are in the above inst/exdata directory as tab-delimited text files.
